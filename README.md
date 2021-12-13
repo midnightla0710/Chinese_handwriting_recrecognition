@@ -8,4 +8,4 @@
    * 需要辨識的中文字共有800個，當該圖檔文字「無法辨識」或「不屬於800字的任何一類」，須判定為isnull(其他類別)。
    * 需要將訓練好的模型打包，在Google Cloud Platform部屬API Server，提供手寫中文字辨識服務。
 
-備註：詳細內容分享於[IT鐵人幫_手寫中文字之影像辨識 ](https://ithelp.ithome.com.tw/users/20141810/ironman/4759)
+備註：詳細內容分享於[IT鐵人賽_AI&Data組_手寫中文字之影像辨識(獲得佳作)](https://ithelp.ithome.com.tw/users/20141810/ironman/4759)
